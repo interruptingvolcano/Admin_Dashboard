@@ -62,6 +62,7 @@ p.dash-head {
   grid-template-columns: 2fr 1fr;
   height: fit-content;
   margin-right: 100px;
+  margin-top: 25px;
   /* border-bottom: 2px solid gray;
   box-shadow:  0px 1px lightgray; */
 }
